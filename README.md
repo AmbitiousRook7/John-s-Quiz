@@ -1,39 +1,37 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+# John's Quiz Website
+![Reactive](https://github.com/AmbitiousRook7/John-s-Quiz/blob/main/assets/images/Screenshot%202024-05-30%20at%2009.21.17.png)
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Introduction
+Welcome to John's Quiz Website! The best place to test your general and music knowlege. Can you get ful marks? Give it a go and find out!
+## Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+### Start screen
+![Start Screen](https://github.com/AmbitiousRook7/John-s-Quiz/blob/main/assets/images/Screenshot%202024-05-30%20at%2009.26.56.png)
+The start screen provides a clear introduction to the quiz game. Users are welcomed and informed about the purpose of the game.
+The “Start” button allows users to initiate the quiz.
 
-## Codeanywhere Reminders
+### Question Type Selector 
+![Quiz Type Selector](https://github.com/AmbitiousRook7/John-s-Quiz/blob/main/assets/images/Screenshot%202024-05-30%20at%2009.28.00.png)
+After clicking “Start,” users are presented with options to choose the type of questions they want (general knowledge or music).
+This feature allows users to customize their quiz experience based on their interests.
+### Quiz Screen
+![Quiz Screen](https://github.com/AmbitiousRook7/John-s-Quiz/blob/main/assets/images/Screenshot%202024-05-30%20at%2009.26.49.png)
+The quiz screen displays the current question, options for answers, and the user’s score.
+Users can select an answer by clicking the corresponding button.
+The “Next Question” button appears after answering a question, allowing users to proceed to the next one.
+The “See Results” button appears after completing all questions, providing a way to view the final score.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### Results Screen
+![Results Screen](https://github.com/AmbitiousRook7/John-s-Quiz/blob/main/assets/images/Screenshot%202024-05-30%20at%2009.27.23.png)
+Once all questions are answered, users see their final score.
+The “Restart” button allows users to play the quiz again.
 
-`python3 -m http.server`
+## Information Sources
+The Questions used in this quiz were handpicked from various sites such as:
+* Best Life 
+* Pub Quiz
+* Radio Times 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+![HTML Ratings](https://github.com/AmbitiousRook7/John-s-Quiz/blob/main/assets/images/Screenshot%202024-05-30%20at%2009.20.54.png)
