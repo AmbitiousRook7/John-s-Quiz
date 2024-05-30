@@ -33,5 +33,22 @@ The Questions used in this quiz were handpicked from various sites such as:
 * Pub Quiz
 * Radio Times 
 
+## Testing Results:
+
+### HTML:
+Warning: Empty heading.
+From line 31, column 5; to line 31, column 22
+
+### CSS: 
+Congratulations! No Error Found.
+This document validates as CSS level 3 + SVG !
+
+### Javascript:
+Metrics
+There are 16 functions in this file.
+Function with the largest signature take 2 arguments, while the median is 0.
+Largest function has 29 statements in it, while the median is 3.5.
+The most complex function has a cyclomatic complexity value of 3 while the median is 1.
+30 warnings
 
 ![HTML Ratings](https://github.com/AmbitiousRook7/John-s-Quiz/blob/main/assets/images/Screenshot%202024-05-30%20at%2009.20.54.png)
